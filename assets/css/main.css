@@ -4155,18 +4155,28 @@ input, select, textarea {
 
 	}
 
-	.cv{
-<<<<<<< HEAD
-		width: 1100px;
+	
+	.download-button {
+		background-color: #0f2e4f; /* Blue color, you can change it */
+		color: white;
+		border: none;
+		padding: 10px 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin-top: 10px;
+		cursor: pointer;
+		/* Center text vertically and horizontally */
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.download-button:hover {
+		background-color: #0057b3a9; /* Darker blue color */
 	}
 
-
-	.button{
+	#b1{
 		margin-left: 900px;
 		
-		
 	}
-=======
-		width: 680px;
-	}
->>>>>>> 3e99086899b860724c055d6bbb01599c7ba4475c
